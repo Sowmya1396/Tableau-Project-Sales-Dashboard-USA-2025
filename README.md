@@ -1,94 +1,70 @@
-# 📊 USA Sales & Profit Performance Dashboard
+# 📊 USA Sales Dashboard – Tableau
 
-![Dashboard Screenshot](Dashboard.png)
-
-## 🚀 Overview
-
-In today’s competitive business landscape, **data-driven decisions** drive growth.  
-This project features an **interactive Tableau dashboard** that transforms raw U.S. sales data into **clear business insights**.
-
-The dashboard uncovers:
-- Sales and profit trends throughout the year
-- High-performing states and product categories
-- Customer distribution and growth opportunities
-
-> 📌 Designed for clarity and fast insight extraction — enabling managers and analysts to understand **what’s happening** and **why**.
+A fully interactive Tableau dashboard designed to analyze **Sales, Profit, and Customer Metrics** across the United States.  
+This project showcases **data storytelling** by converting raw sales data into **business insights** that support strategic decisions.
 
 ---
 
-## 📦 Dataset Details
+## 🚀 Objective
 
-- **Source**: Superstore Sales Dataset (Publicly available retail dataset)
-- **Records**: 5,000+ transactions
-- **Key Fields**:
-  - `State`, `Region`, `Category`, `Sub-Category`
-  - `Sales`, `Profit`, `Quantity`
-  - `Order Date`, `Customer Name`
-
-🧹 Data validation and formatting were handled before importing into Tableau.
+To explore **regional** and **category-wise** performance in order to:
+- Improve profitability
+- Understand customer distribution trends
+- Identify high-growth opportunities
 
 ---
 
-## 📌 Dashboard Highlights
+## 📈 Dashboard Highlights
 
-### 🔍 Key Performance Indicators (KPIs)
-- **Total Sales** — $733K
-- **Total Profit** — $93K
-- **Customer Count** — 693
-
-### 📈 Monthly Sales Trend
-- Seasonal spikes and dips clearly visible for predictive planning
-
-### 🗺️ Regional Performance
-- U.S. map visual showing strongest revenue states  
-  → California leads the sales contribution
-
-### 🛍️ Category Insights
-- Top contributors: **Fresh Produce** & **Beverages**
-
-### 👆 Interactive Exploration
-- Filters for **State**, **Year**, and **Category**
-- Drill-downs for deeper analysis
+### 🔍 Key Features
+- KPI Cards summarizing **Total Sales, Profit, and Customer Count**
+- **Monthly Sales Trend** visualization to detect seasonal patterns
+- **U.S. Map View** to highlight top-performing states
+- **Category Breakdown** to understand what drives revenue
+- User-friendly filters for **Year**, **Category**, and **State**
 
 ---
 
-## 🛠️ Tools & Technologies Used
-
-| Tool          | Purpose                            |
-|---------------|------------------------------------|
-| **Tableau**   | Visualization & Dashboard Building |
-| **Excel/CSV** | Data Preparation & Cleaning        |
+## 📌 Insights Generated
+- **California** is the highest revenue contributor in the U.S.
+- **Fresh Produce & Beverages** show the strongest category performance
+- Certain regions reveal **profit inconsistencies** → room for cost optimization
 
 ---
 
-## 🧪 How to Explore This Dashboard
+## 🛠️ Tools & Technologies
 
-1. Download dataset (or connect to a similar Superstore dataset)
-2. Open the Tableau workbook (`.twb` / `.twbx`)
-3. Ensure correct data source mapping
-4. Interact with filters, tooltips, and segments for insights
+| Tool          | Purpose |
+|---------------|---------|
+| **Tableau**   | Dashboard design & visualization |
+| **Excel / CSV** | Data preparation & cleaning |
+| **Analytical Storytelling** | Insight-driven communication |
 
 ---
 
-## 👤 About Me
+## 🧠 What I Learned
+- Building clean and interactive **business dashboards**
+- Choosing the right visuals for the right metrics
+- Conveying insights **clearly and professionally** to stakeholders
+
+---
+
+## 🚀 Future Enhancements
+- Drill-downs to the **product level**
+- Advanced profitability deep-dive
+- Customer segmentation for strategic marketing actions
+
+---
+
+## 👤 Author
 
 **Sowmya**  
-🎯 Data Analyst in the making | SQL | Excel | Power BI | Tableau  
-💬 Passionate about turning business data into smarter decisions
+📊 Aspiring Data Analyst | SQL | Excel | Power BI | Tableau | Insights & Storytelling  
 
-🔗 LinkedIn: *(Add your profile link)*  
-📁 GitHub Portfolio: *(Add your main portfolio repo link)*
-
----
-
-## 💬 Feedback & Contributions
-
-Suggestions and improvements are always welcome!  
-Feel free to raise an issue or submit a pull request.
+🔗 LinkedIn Profile: *www.linkedin.com/in/sowmyasri13* 
+ 
+📁 GitHub Portfolio: *(Add your portfolio repo link)*  
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the **MIT License**.
-
+⭐ *If you like this project, please star the repo and share your feedback — it helps me grow as an analyst!*
