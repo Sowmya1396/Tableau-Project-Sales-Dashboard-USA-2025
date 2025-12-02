@@ -63,7 +63,7 @@ To explore **regional** and **category-wise** performance in order to:
 
 🔗 LinkedIn Profile: *www.linkedin.com/in/sowmyasri13* 
  
-📁 GitHub Portfolio: *(Add your portfolio repo link)*  
+📁 GitHub Portfolio: *https://github.com/Sowmya1396*  
 
 ---
 
